@@ -98,4 +98,3 @@ This project was a practical exercise in moving beyond basic querying to buildin
 
 *   This project was inspired by the curriculum of the **Codebasics Data Analytics Bootcamp**.
 *   Special thanks to mentors **Dhaval Patel** and **Hemanand Vadivel** for their invaluable guidance.
-*   A huge thank you to **Sneha Attri** for her dynamic participation as the stakeholder, which made the project simulation feel authentic and engaging.
