@@ -1,7 +1,5 @@
 # **Customer Segmentation & Market Growth Analysis (SQL)**
 
-### **[🔗 View Project Files](#)** *(Paste your repo link here)*
-
 ---
 
 ### **Project Overview**
